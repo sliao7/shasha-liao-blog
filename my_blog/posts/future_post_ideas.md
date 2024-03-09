@@ -1,0 +1,4 @@
+- how to manage your finance in Python?
+- how to print out the structure of a directory?
+- Movies I watched
+- What am I an expert in?
