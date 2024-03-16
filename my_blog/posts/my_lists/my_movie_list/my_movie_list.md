@@ -11,7 +11,7 @@ I work for a movie company. But I was never a big fan of movies until last summe
 
 | Movie Name             | Release Date | Watch Date   |   Theater  |    Distributed by            | Short Comment  |
 | :---                   | :----        | :----        | :----      | :----                        |:----           |
-| Kung Fu Panda 4        | 2024-03-08   | 2024-03-16   |   Regal    |  Universal Pictures          | Fun, beautiful Chinease elements |
+| Kung Fu Panda 4        | 2024-03-08   | 2024-03-15   |   Regal    |  Universal Pictures          | Fun, beautiful Chinease elements |
 | In Bloom               | 2024-02-**   | 2024-03-09   |   Home     |  Paramount Pictures, and ... | Sad, Real, Encouraging |
 | Dune: Part Two         | 2024-03-01   | 2024-03-08   |   Regal    |  Warner Bros. Pictures       | Powerful, Beautiful |
 | Bob Marley: One Love   | 2024-02-14   | 2024-02-24   |   Regal    |  Paramount Pictures          | Peaceful       |
