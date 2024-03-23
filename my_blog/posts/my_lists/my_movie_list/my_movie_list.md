@@ -1,7 +1,7 @@
 ---
 title: My Movie List
 post-date: March 08, 2024
-updated-date: March 16, 2024
+updated-date: March 22, 2024
 author: Shasha Liao
 ---
 
@@ -11,6 +11,7 @@ I work for a movie company. But I was never a big fan of movies until last summe
 
 | Movie Name             | Release Date | Watch Date   |   Theater  |    Distributed by            | Short Comment  |
 | :---                   | :----        | :----        | :----      | :----                        |:----           |
+| Immaculate             | 2024-03-22   | 2024-03-22   |   Regal    |  Neon                        | Horror  |
 | Kung Fu Panda 4        | 2024-03-08   | 2024-03-15   |   Regal    |  Universal Pictures          | Fun, beautiful Chinease elements |
 | In Bloom               | 2024-02-**   | 2024-03-09   |   Home     |  Paramount Pictures, and ... | Sad, Real, Encouraging |
 | Dune: Part Two         | 2024-03-01   | 2024-03-08   |   Regal    |  Warner Bros. Pictures       | Powerful, Beautiful |
