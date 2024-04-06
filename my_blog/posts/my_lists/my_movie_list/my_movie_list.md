@@ -11,6 +11,7 @@ I work for a movie company. But I was never a big fan of movies until last summe
 
 | Movie Name             | Release Date | Watch Date   |   Theater  |    Distributed by            | Short Comment  |
 | :---                   | :----        | :----        | :----      | :----                        |:----           |
+| In the Land of Saints and Sinners | 2024-03-29 | 2024-04-05 | Regal | Netflix                    | Calm, Crime |
 | Dune: Part Two         | 2024-03-01   | 2024-03-29 & 2024-03-08  |   Regal    |  Warner Bros. Pictures       | Powerful, Beautiful |
 | The Creater            | 2023-09-29   | 2024-03-24   |   Home     |  20th Century Studios        | Non sense |
 | Immaculate             | 2024-03-22   | 2024-03-22   |   Regal    |  Neon                        | Horror  |
