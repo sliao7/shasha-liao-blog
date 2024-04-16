@@ -1,13 +1,13 @@
 ---
 title: My Movie List
 post-date: March 08, 2024
-updated-date: March 08, 2024
+updated-date: March 09, 2024
 author: Shasha Liao
 ---
 
 ![My Image](movie_time.jpeg)
 
-I work for a movie company. But I was never a big fan of movies until last summer in 2023 when some colleague and friend I met in NYC told me that movies disseminate various cultures and shape lives. Since then, I started to watch more movies and will continue to do so. Therefore, I found it would be fun to list all the movies I've watched since the middle of last year, arranged chronologically according to my viewing dates. And I will keep adding movies to the list in the future!
+I work for a movie company. But I was never a big fan of movies until last summer in 2023 when some colleague and friend I met in NYC told me that movies disseminate various cultures and shape lives. Since then, I started to watch more movies and will continue to do so. Therefore, I found it would be fun to list all the movies I've watched since the middle of last year, arranged chronologically according to my viewing dates. And I will keep adding movies to the list in the future! (Note: ** in a date means that I can not figure out the exact date.)
 
 | Movie Name             | Release Date | Watch Date   |   Theater  |    Distributed by            | Short Comment  |
 | :---                   | :----        | :----        | :----      | :----                        |:----           |
@@ -36,4 +36,3 @@ I work for a movie company. But I was never a big fan of movies until last summe
 | Teenage Mutant Ninja Turtles Mutant Mayhem | 2023-08-02 | 2023-08-12 | AMC | paramount Pictures  | Cute, Fun      |
 | Star Trek III: The Search for Spock | 1984-06-01 | 2023-07-24 | Bryant Park | Paramount Pictures | Old, Warm      |
 | Mission: Impossible – Dead Reckoning Part One | 2023-07-12 | 2023-07-12 | Around Time Square | Paramount Pictures | Thrilling |
-
