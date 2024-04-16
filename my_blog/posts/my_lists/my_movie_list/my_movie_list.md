@@ -1,7 +1,7 @@
 ---
 title: My Movie List
 post-date: March 08, 2024
-updated-date: March 09, 2024
+updated-date: April 5, 2024
 author: Shasha Liao
 ---
 
@@ -11,8 +11,12 @@ I work for a movie company. But I was never a big fan of movies until last summe
 
 | Movie Name             | Release Date | Watch Date   |   Theater  |    Distributed by            | Short Comment  |
 | :---                   | :----        | :----        | :----      | :----                        |:----           |
+| In the Land of Saints and Sinners | 2024-03-29 | 2024-04-05 | Regal | Netflix                    | Calm, Crime |
+| Dune: Part Two         | 2024-03-01   | 2024-03-29 & 2024-03-08  |   Regal    |  Warner Bros. Pictures       | Powerful, Beautiful |
+| The Creater            | 2023-09-29   | 2024-03-24   |   Home     |  20th Century Studios        | Non sense |
+| Immaculate             | 2024-03-22   | 2024-03-22   |   Regal    |  Neon                        | Horror  |
+| Kung Fu Panda 4        | 2024-03-08   | 2024-03-15   |   Regal    |  Universal Pictures          | Fun, beautiful Chinease elements |
 | In Bloom               | 2024-02-**   | 2024-03-09   |   Home     |  Paramount Pictures, and ... | Sad, Real, Encouraging |
-| Dune: Part Two         | 2024-03-01   | 2024-03-08   |   Regal    |  Warner Bros. Pictures       | Powerful, Beautiful |
 | Bob Marley: One Love   | 2024-02-14   | 2024-02-24   |   Regal    |  Paramount Pictures          | Peaceful       |
 | Argylle                | 2024-02-02   | 2024-02-17   |   Regal    |  Universal Studio, Apple TV+ | Interesting    |
 | Poor Things            | 2023-12-08   | 2024-01-27   |   Regal    |  Searchlight Pictures, Walt Disney Studios Motion Pictures | Weird |
