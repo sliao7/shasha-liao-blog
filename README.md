@@ -1,6 +1,7 @@
 # Shasha Liao's Blog
 
 ## 2024
+- [My Show List](my_blog/posts/my_lists/my_show_list/my_show_list.md) - April 15, 2024
 - [My Movie List](my_blog/posts/my_lists/my_movie_list/my_movie_list.md) - March 08, 2024
 - [Red Envelopes](my_blog/posts/post_2024/post_20240225/Red_Envelopes.md) - February 25, 2024
 - [Happy New Year](my_blog/posts/post_2024/post_20240208/Happy_New_Year_2024.md) - February 8, 2024
