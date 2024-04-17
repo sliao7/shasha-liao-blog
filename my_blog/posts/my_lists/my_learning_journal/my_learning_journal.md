@@ -4,6 +4,7 @@ post-date: April 17, 2024
 updated-date: April 17, 2024
 author: Shasha Liao
 ---
+![My Image](learning.jpeg)
 
 |    Date     |  Event Name   | Speaker      | Organizer  |  Platform  |   Duration         |  Key Topics    |    Label   | Comment |
 | :---        | :----         | :----        | :----      | :----      |   :------          |:----              |:----       |:----    |
