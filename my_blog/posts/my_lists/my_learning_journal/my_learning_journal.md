@@ -6,10 +6,8 @@ author: Shasha Liao
 ---
 ![My Image](learning.jpeg)
 
-People often mention GIGO(Garbage In, Garbage Out) to stress the importance of high-quality data when training machine learning models. I believe this rule also applies to our human brain. Although a large part of the information feeded to our brain is not controled by ourselves, we should try our best to take in as much good knowledge and ideas as possible to achieve our goals. 
+People often mention GIGO(Garbage In, Garbage Out) to stress the importance of high-quality data when training machine learning models. I believe this rule also applies to our human brain. Although a large part of the information fed to our brain is not controlled by ourselves, we should try our best to take in as much good knowledge and ideas as possible to achieve our goals. On this page, I track the good information I have chosen to feed the neural networks in my brain:
 
-
-|    Date     |  Event Name   | Speaker      | Organizer  |  Platform  |   Duration         |  Key Topics    |    Label   | Comment |
-| :---        | :----         | :----        | :----      | :----      |   :------          |:----              |:----       |:----    |
-| 2024-04-17  | Make Time For What Matters | Chad Lawson (pianist and composer) | Thrive Global |  Zoom  | 45 mins | Music, mindfulness, and prioritizing our passions  |  Self-care | Peaceful and relaxing |
-| 2024-04-16  | The Future of Entertainment | Anita Elberse (Harvard Business School professor) | Paramount Global - Spark | Vimeo | 1 hr 15 mins | Blockbuster, Superstars, Technology  | Media industry | Very informative, insightful, and inspiring |
+- [Courses](my_blog/posts/my_lists/my_learning_journal/course_list.md)
+- [Language Training](my_blog/posts/my_lists/my_learning_journal/boldvoice_training_track.md)
+- [Sessions and Events](my_blog/posts/my_lists/my_learning_journal/event_list.md)
