@@ -13,6 +13,7 @@ My current plan (updated on April 27, 2024) to improve my English is in the foll
    - Find some books, notes, exercises, quizzes, or games to systematically reinforce my understanding and memory of grammar rules in English.
    - Writing many articles, documents, and blogs to improve my ability to structure and express my thoughts and ideas elegantly and efficiently. 
    - Using Grammarly and Copilot (powered by ChatGPT) to correct my mistakes, give me suggestions to improve the quality of my writing, and learn from them.
+3. Increase my vocabulary by mindfully remembering new words I encounter everywhere.  
 3. Apply everything in daily conversations with colleagues, friends, and myself in front of a mirror.
 
 
