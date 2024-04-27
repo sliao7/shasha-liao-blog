@@ -1,4 +1,5 @@
-- how to manage your finance in Python?
-- how to print out the structure of a directory?
-- Movies I watched
+- how do you manage your finances in Python?
+- How do I print out the structure of a directory?
 - What am I an expert in?
+- Are you old?
+- 
