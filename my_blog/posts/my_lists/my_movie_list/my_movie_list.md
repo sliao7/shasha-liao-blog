@@ -7,15 +7,16 @@ author: Shasha Liao
 
 ![My Image](movie_time.jpeg)
 
-I work for a movie company. But I was never a big fan of movies until last summer in 2023 when some colleague and friend I met in NYC told me that movies disseminate various cultures and shape lives. Since then, I started to watch more movies and will continue to do so. Therefore, I found it would be fun to list all the movies I've watched since the middle of last year, arranged chronologically according to my viewing dates. And I will keep adding movies to the list in the future! (Note: ** in a date means that I can not figure out the exact date.)
+I work for a movie company. But I was never a big fan of movies until last summer in 2023 when some colleague and friend I met in NYC told me that movies disseminate various cultures and shape lives. Since then, I have started to watch more movies and will continue to do so. Therefore, I found it would be fun to list all the movies I've watched since the middle of last year, arranged chronologically according to my viewing dates. And I will keep adding movies to the list in the future! (Note: ** in a date means I can not figure out the exact date.)
 
 | Movie Name             | Release Date | Watch Date   |   Theater  |    Distributed by            | Short Comment  |
 | :---                   | :----        | :----        | :----      | :----                        |:----           |
+| Begin Again            | 2014-06-27   |  2024-04-26  |   Home(P+)    |  The Weinstein Company       | I love this movie, the story, and the music. It's a simple and warm story about self-growth and passion. The background in New York City reminds me of the good times I spent there last summer.|
 | In the Land of Saints and Sinners | 2024-03-29 | 2024-04-05 | Regal | Netflix                    | Calm, Crime |
 | Dune: Part Two         | 2024-03-01   | 2024-03-29 & 2024-03-08  |   Regal    |  Warner Bros. Pictures       | Powerful, Beautiful |
-| The Creater            | 2023-09-29   | 2024-03-24   |   Home     |  20th Century Studios        | Non sense |
+| The Creator            | 2023-09-29   | 2024-03-24   |   Home     |  20th Century Studios        | Non sense |
 | Immaculate             | 2024-03-22   | 2024-03-22   |   Regal    |  Neon                        | Horror  |
-| Kung Fu Panda 4        | 2024-03-08   | 2024-03-15   |   Regal    |  Universal Pictures          | Fun, beautiful Chinease elements |
+| Kung Fu Panda 4        | 2024-03-08   | 2024-03-15   |   Regal    |  Universal Pictures          | Fun, beautiful Chinese elements |
 | In Bloom               | 2024-02-**   | 2024-03-09   |   Home     |  Paramount Pictures, and ... | Sad, Real, Encouraging |
 | Bob Marley: One Love   | 2024-02-14   | 2024-02-24   |   Regal    |  Paramount Pictures          | Peaceful       |
 | Argylle                | 2024-02-02   | 2024-02-17   |   Regal    |  Universal Studio, Apple TV+ | Interesting    |
