@@ -4,6 +4,18 @@ I was told and believed that a person's accent can not be removed or changed. Ho
 
 Therefore, I am currently using an app called BoldVoice to train myself. It has been so much fun! I subscribed to it for one year. On this page, I want to track the effort and progress I make to improve my English speaking. I will also consider seeing a speaking or accent therapist in the future. I aim to communicate clearly and confidently to exchange ideas with more excellent people!
 
+My current plan (updated on April 27, 2024) to improve my English is in the following steps:
+
+1. Learn the American accent on a daily basis to train my muscles and change my pronunciation habits:
+   - Using BoldVoice to learn the basics and get feedback;
+   - Following and mimicking people speaking in movies, shows, talks, lectures, daily conversations, etc. 
+2. Solidate my grammar to build the foundation for smooth sentences and confident expressions:
+   - Find some books, notes, exercises, quizzes, or games to systematically reinforce my understanding and memory of grammar rules in English.
+   - Writing many articles, documents, and blogs to improve my ability to structure and express my thoughts and ideas elegantly and efficiently. 
+   - Using Grammarly and Copilot (powered by ChatGPT) to correct my mistakes, give me suggestions to improve the quality of my writing, and learn from them.
+3. Apply everything in daily conversations with colleagues, friends, and myself in front of a mirror.
+
+
 | Date        | iPhone training time | iPad training time | Cumulative training time | Chapter | Sound practiced | Example words | 
 | :-----      | :-----     | :-----    | :-----     | :----         | :-----    | :--- |
 | 2024-04-26  | 9m         | 38m       |  24h 39m   |  Expanding Pronunciation      |  J       | judge        |
