@@ -19,6 +19,9 @@ My current plan (updated on April 27, 2024) to improve my English is in the foll
 
 | Date        | iPhone training time | iPad training time | Cumulative training time | Chapter | Sound practiced | Example words | 
 | :-----      | :-----     | :-----    | :-----     | :----         | :-----    | :--- |
+| 2024-04-29  |            |           |            |  Advancing Your Vowels        | AH       | stop, watch  |
+| 2024-04-28  | 24m        | 0m        |  26h 42m   |  Advancing Your Vowels        | UH       | cut          |
+| 2024-04-27  | 1h 32m     | 7m        |  26h 18m   |  Advancing Your Vowels        | AA       | class, cat   |
 | 2024-04-26  | 9m         | 38m       |  24h 39m   |  Expanding Pronunciation      |  J       | judge        |
 | 2024-04-25  | 1h 14m     | 16m       |  23h 52m   |  Expanding Pronunciation      |  J       | journalist   |
 | 2024-04-24  | 1h 53m     | 0m        |  22h 22m   |  Expanding Pronunciation      |  J       | conjugation  |
