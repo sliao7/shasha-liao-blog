@@ -19,7 +19,12 @@ My current plan (updated on April 27, 2024) to improve my English is in the foll
 
 | Date        | iPhone training time | iPad training time | Cumulative training time | Chapter | Sound practiced | Example words | 
 | :-----      | :-----     | :-----    | :-----     | :----         | :-----    | :--- |
-| 2024-04-29  |            |           |            |  Advancing Your Vowels        | AH       | stop, watch  |
+| 2024-05-04  |            | 0m        |            |  Advancing Your Vowels        | Distinction: EE vs IH       |               |
+| 2024-05-03  | 35m        | 0m        |  31h 32m   |  Advancing Your Vowels        | Distinction: EE vs IH  |   heat, hit            |
+| 2024-05-02  | 1h 13m     | 0m        |  30h 57m   |  Advancing Your Vowels        | Distinction: OO vs U         |     mute, look         |
+| 2024-05-01  | 29m        | 0m        |  29h 44m   |  Advancing Your Vowels        | Distinction: AA vs UH vs AH     |   hat, hut, hot     |
+| 2024-04-30  | 55m        | 0m        |  29h 15m   |  Advancing Your Vowels        | Rounding the Lips for OO and AW| tune, strawberry  |
+| 2024-04-29  | 1h 18m     | 20m       |  28h 20m   |  Advancing Your Vowels        | AH       | stop, watch  |
 | 2024-04-28  | 24m        | 0m        |  26h 42m   |  Advancing Your Vowels        | UH       | cut          |
 | 2024-04-27  | 1h 32m     | 7m        |  26h 18m   |  Advancing Your Vowels        | AA       | class, cat   |
 | 2024-04-26  | 9m         | 38m       |  24h 39m   |  Expanding Pronunciation      |  J       | judge        |
