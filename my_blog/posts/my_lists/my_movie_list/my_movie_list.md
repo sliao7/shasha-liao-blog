@@ -1,16 +1,17 @@
 ---
 title: My Movie List
 post-date: March 08, 2024
-updated-date: April 26, 2024
+updated-date: May 4, 2024
 author: Shasha Liao
 ---
 
 ![My Image](movie_time.jpeg)
 
-I work for a movie company. But I was never a big fan of movies until last summer in 2023 when some colleague and friend I met in NYC told me that movies disseminate various cultures and shape lives. Since then, I have started to watch more movies and will continue to do so. Therefore, I found it would be fun to list all the movies I've watched since the middle of last year, arranged chronologically according to my viewing dates. And I will keep adding movies to the list in the future! (Note: ** in a date means I can not figure out the exact date.)
+I work for a movie company. But I was never a big fan of movies until last summer in 2023 when some colleague and friend I met in NYC told me that movies disseminate various cultures and shape lives. Since then, I have started to watch more movies and will continue to do so. Therefore, it would be fun to list all the movies I've watched since the middle of last year, arranged chronologically according to my viewing dates. And I will keep adding movies to the list in the future! (Note: ** in a date means I can not figure out the exact date.)
 
 | Movie Name             | Release Date | Watch Date   |   Theater  |    Distributed by            | Short Comment  |
 | :---                   | :----        | :----        | :----      | :----                        |:----           |
+| Call Me by Your Name   | 2018-01-19   |  2024-05-04  |   Home(Prime Video) | Sony Pictures Classics, Warner Bros. Pictures, United International Pictures, Memento Films | This is a quiet and romantic movie. My favorite lines are: "We rip out so much of ourselves to be cured of things faster that we go bankrupt by the age of 30 and have less to offer each time we start with someone new. But to make yourself feel nothing so as not to feel anything. What a waste!"
 | Begin Again            | 2014-06-27   |  2024-04-26  |   Home(P+)    |  The Weinstein Company       | I love this movie, the story, and the music. It's a simple and warm story about self-growth and passion. The background in New York City reminds me of the good times I spent there last summer.|
 | In the Land of Saints and Sinners | 2024-03-29 | 2024-04-05 | Regal | Netflix                    | Calm, Crime |
 | Dune: Part Two         | 2024-03-01   | 2024-03-29 & 2024-03-08  |   Regal    |  Warner Bros. Pictures       | Powerful, Beautiful |
