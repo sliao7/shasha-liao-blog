@@ -1,14 +1,17 @@
 ---
 title: Happy New Year
 post-date: February 8, 2024
-author: Shasha Liao
+Author: Shasha Liao
 ---
+
 ![My Image](Happy-New-Year-2024-Wallpaper-HD-free-fireworks-background-image.jpg)
+
 # Happy New Year
 
 ### Happy New Year to Mandy!!!
 
 ---
+
 <p>&nbsp;</p>
 As I sit here, on the eve of Lunar New Year 2024, a significant day known as Nian (年) in my hometown, I am compelled to reflect on the significance this day held for me as a child.
 
