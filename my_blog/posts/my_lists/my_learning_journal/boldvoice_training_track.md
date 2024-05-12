@@ -19,7 +19,9 @@ My current plan (updated on April 27, 2024) to improve my English is in the foll
 
 | Date        | iPhone training time | iPad training time | Cumulative training time | Chapter | Sound practiced | Example words | 
 | :-----      | :-----     | :-----    | :-----     | :----         | :-----    | :--- |
-| 2024-05-04  |            | 0m        |            |  Advancing Your Vowels        | Distinction: EE vs IH       |               |
+| 2024-05-06  |            | 0m        |            |  Mastering the R          |  R sound       | rain, driver              |
+| 2024-05-05  | 34m        | 0m        |  33h 50m   |  Advancing Your Vowels        | Distinction: EE vs IH       | spirit,  ceiling [S.EE.L.IH.NG]          |                  
+| 2024-05-04  | 1h 44m     | 0m        |  33h 16m   |  Advancing Your Vowels        | Distinction: EE vs IH       |  green[G.R.EE.N], lift[L.IH.F.T]        |
 | 2024-05-03  | 35m        | 0m        |  31h 32m   |  Advancing Your Vowels        | Distinction: EE vs IH  |   heat, hit            |
 | 2024-05-02  | 1h 13m     | 0m        |  30h 57m   |  Advancing Your Vowels        | Distinction: OO vs U         |     mute, look         |
 | 2024-05-01  | 29m        | 0m        |  29h 44m   |  Advancing Your Vowels        | Distinction: AA vs UH vs AH     |   hat, hut, hot     |
