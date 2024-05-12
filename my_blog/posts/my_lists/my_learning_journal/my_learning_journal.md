@@ -12,5 +12,7 @@ People often mention GIGO(Garbage In, Garbage Out) to stress the importance of h
 - [Courses](course_list.md)
 - Language Training
   - [Pronounciation](boldvoice_training_track.md)
-  - [Vocabulary](my_vocabulary.md)
+  <!-- - [Vocabulary](my_vocabulary.md) -->
+  - [Dictionary of American Idioms](Dictionary_of_American_Idioms_.pdf)
+  - [Dictionary of American Slang and Colloquial Expressions](dictionary_of_american_slang_and_colloquial_expressions2.pdf)
 - [Sessions and Events](event_list.md)
