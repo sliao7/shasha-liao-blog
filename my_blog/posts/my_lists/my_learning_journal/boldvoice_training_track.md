@@ -19,7 +19,14 @@ My current plan (updated on April 27, 2024) to improve my English is in the foll
 
 | Date        | iPhone training time | iPad training time | Cumulative training time | Chapter | Sound practiced | Example words | 
 | :-----      | :-----     | :-----    | :-----     | :----         | :-----    | :--- |
-| 2024-05-06  |            | 0m        |            |  Mastering the R          |  R sound       | rain, driver              |
+| 2024-05-13  |       | 0m       |           |  Mastering the R          |  R sound       |      |
+| 2024-05-12  |       | 0m       |           |  Mastering the R          |  R sound       |      |
+| 2024-05-11  | 1h 24m     | 0m        |  39h 42m   |  Mastering the R          |  IH + R sound  | fierce, sincere    |
+| 2024-05-10  | 22m        | 0m        |  38h 18m   |  Mastering the R          |  ER sound  | attorny, journalist |
+| 2024-05-09  | 25m        | 0m        |  37h 56m   |  Mastering the R          |  ER sound  | curve, certain     |
+| 2024-05-08  | 26m        | 0m        |  37h 31m   |  Mastering the R          |  Curling the tongue  |  fashion, ship    |
+| 2024-05-07  | 1h 54m     | 0m        |  37h 5m    |  Mastering the R          |  R sound       | inspiration, evaporate    |
+| 2024-05-06  | 1h 21m     | 0m        |  35h 11m   |  Mastering the R          |  R sound       | rain, driver              |
 | 2024-05-05  | 34m        | 0m        |  33h 50m   |  Advancing Your Vowels        | Distinction: EE vs IH       | spirit,  ceiling [S.EE.L.IH.NG]          |                  
 | 2024-05-04  | 1h 44m     | 0m        |  33h 16m   |  Advancing Your Vowels        | Distinction: EE vs IH       |  green[G.R.EE.N], lift[L.IH.F.T]        |
 | 2024-05-03  | 35m        | 0m        |  31h 32m   |  Advancing Your Vowels        | Distinction: EE vs IH  |   heat, hit            |
