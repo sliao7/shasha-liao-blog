@@ -11,6 +11,7 @@ I work for a movie company. But I was never a big fan of movies until last summe
 
 | Movie Name             | Release Date | Watch Date   |   Theater  |    Distributed by            | Short Comment  |
 | :---                   | :----        | :----        | :----      | :----                        |:----           |
+| Unfrosted              | 2024-05-03   |  2024-05-09  |   Home(Netflix) | Netflix | The jokes in the movie do not make much sense to me. I decided to watched it because of Seinfeld but was kinda disappointed. It was a relaxing comedy movie. You barely need to use your brain to watch it. |
 | Call Me by Your Name   | 2018-01-19   |  2024-05-04  |   Home(Prime Video) | Sony Pictures Classics, Warner Bros. Pictures, United International Pictures, Memento Films | This is a quiet and romantic movie. My favorite lines are: "We rip out so much of ourselves to be cured of things faster that we go bankrupt by the age of 30 and have less to offer each time we start with someone new. But to make yourself feel nothing so as not to feel anything. What a waste!"
 | Begin Again            | 2014-06-27   |  2024-04-26  |   Home(P+)    |  The Weinstein Company       | I love this movie, the story, and the music. It's a simple and warm story about self-growth and passion. The background in New York City reminds me of the good times I spent there last summer.|
 | In the Land of Saints and Sinners | 2024-03-29 | 2024-04-05 | Regal | Netflix                    | Calm, Crime |
