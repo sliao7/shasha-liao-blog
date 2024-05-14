@@ -18,7 +18,7 @@ Research and other people's experiences show that extensive reading is a prerequ
 
 Other than books, I also plan to read articles that I am interested in on WSJ to include more topics in my reading materials. 
 
-#### Vocabulary Tracking
+#### Vocabulary tracking
 I am still trying to figure out a good way to track my new vocabulary. The idea is to build a personal connection with each word by tracking when, where, and how I encouter it, and how often I use them in the futre. However, the current inputting strategy is not efficient enough. Here are some ideas to improve:
 1. For each word, I manually input the spelling, the word chrunk, the sentence in which I acquired it, and the source. Use Python to write the date when I encounter and record it automatically.
 2. Using some language library in Python to get the pronounciation, the definition, and the synonums for each word.
@@ -28,7 +28,10 @@ I am still trying to figure out a good way to track my new vocabulary. The idea 
 #### Writing
 To fully grasp a word, one must use it. I have been intentionally writing more and more this year. I started writing daily journal since February, working on this repository, and documenting more often at work than before. I noticed that I am more comfortable with writing compared with two months ago, and I will keep this momentum going and incorporate new vocabularies on the go. 
 
+## Looking beyond 
 I will desgin a system to keep track of my vocabulary level and share the progress. I am really excited about my plan to improve my vocabulary and a more confident version of myself after getting to the next level.
+
+
 
 | No.      |Word     | Words chunk | Sentence | Definition | Synonyms | Topic  | Source| Date  |
 |:----     | :----   | :----       | :----    | :----      | :----    | :----  | :---  | :---  |
