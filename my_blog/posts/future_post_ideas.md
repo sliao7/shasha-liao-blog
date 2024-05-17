@@ -3,3 +3,5 @@
 - What am I an expert in?
 - Are you old?
 - My sources of happiness.
+- Manage my time, energy, and money (inspired by Katherine Liu)
+- Embrace a clutter-free lifestyle
