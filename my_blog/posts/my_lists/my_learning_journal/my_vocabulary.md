@@ -4,7 +4,7 @@
 
 I had a vocabulary test a few days ago, which shows that I only know 6100 words. However, according to that website, to be a fluent speaker, I need more than 20000 vocabularies. So, I did a lot of research on how to improve vocabulary and made a plan for it.
 
-## Detailed Plan
+## Detailed plan
 
 ### Estimate my actual vocabulary level
 
