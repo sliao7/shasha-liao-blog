@@ -4,23 +4,34 @@ I was told and believed that a person's accent can not be removed or changed. Ho
 
 Therefore, I am currently using an app called BoldVoice to train myself. It has been so much fun! I subscribed to it for one year. On this page, I want to track the effort and progress I make to improve my English speaking. I will also consider seeing a speaking or accent therapist in the future. I aim to communicate clearly and confidently to exchange ideas with more excellent people!
 
-My current plan (updated on April 27, 2024) to improve my English is in the following steps:
+My current plan (updated on May 19, 2024) to improve my English is in the following steps:
 
 1. Learn the American accent on a daily basis to train my muscles and change my pronunciation habits:
    - Using BoldVoice to learn the basics and get feedback;
-   - Following and mimicking people speaking in movies, shows, talks, lectures, daily conversations, etc. 
+   - Following and mimicking people speaking in movies, shows, talks, lectures, daily conversations, etc.;
+   - Practicing linking sounds by following YouTube videos and BoldVoice app;
+   - Talking with ChatGPT in various ways for constructive feedbacks and suggestions to improve my pronunciation;
+   - Using voice typing to check if the voice recognition algorithms can understand my pronunciation. If not, I learn the correct pronunciation and practice them;
+   - Talking to native speakers several times a week.
 2. Solidate my grammar to build the foundation for smooth sentences and confident expressions:
    - Find some books, notes, exercises, quizzes, or games to systematically reinforce my understanding and memory of grammar rules in English.
    - Writing many articles, documents, and blogs to improve my ability to structure and express my thoughts and ideas elegantly and efficiently. 
    - Using Grammarly and Copilot (powered by ChatGPT) to correct my mistakes, give me suggestions to improve the quality of my writing, and learn from them.
-3. Increase my vocabulary by mindfully remembering new words I encounter everywhere.  
-3. Apply everything in daily conversations with colleagues, friends, and myself in front of a mirror.
-
+   - Looking up words and how they are used in dictionaries. I am currently using LONGMAN 6 and WordWebUS. They are super useful tools. 
+3. Increase my vocabulary by looking up and mindfully remembering new words I encounter everywhere.
+4. Watch YouTute Videos and listening to Podcasts on tips and other people's advices to learn English. This has been super helpful! 
+   
 
 | Date        | iPhone training time | iPad training time | Cumulative training time | Chapter | Sound practiced | Example words | 
 | :-----      | :-----     | :-----    | :-----     | :----         | :-----    | :--- |
-| 2024-05-13  |       | 0m       |           |  Mastering the R          |  R sound       |      |
-| 2024-05-12  |       | 0m       |           |  Mastering the R          |  R sound       |      |
+| 2024-05-19  |        |         |                  |  Mastering the R       |  AH + R sound     | car, farm     |
+| 2024-05-18  | 1h 1m      | 11m       |  45h 15m   |  Mastering the R          |  AH + R sound  | dark, far     |
+| 2024-05-17  | 52m        | 0m        |  44h 3m    |  Mastering the R          |  EH + R sound  |  haircut    |
+| 2024-05-16  | 23m        | 0m        |  43h 11m   |  Mastering the R          |  EH + R sound  |  heir    |
+| 2024-05-15  | 1h 51m     | 0m        |  42h 48m   |  Mastering the R          |  EH + R sound  |  area, various   |
+| 2024-05-14  | 30m        | 0m        |  40h 57m   |  Mastering the R          |  EH + R sound  | square, wear     |
+| 2024-05-13  | 13m        | 0m        |  40h 27m   |  Mastering the R          |  IH + R sound  | severe     |
+| 2024-05-12  | 32m        | 0m        |  40h 14m   |  Mastering the R          |  IH + R sound  | unclear     |
 | 2024-05-11  | 1h 24m     | 0m        |  39h 42m   |  Mastering the R          |  IH + R sound  | fierce, sincere    |
 | 2024-05-10  | 22m        | 0m        |  38h 18m   |  Mastering the R          |  ER sound  | attorny, journalist |
 | 2024-05-09  | 25m        | 0m        |  37h 56m   |  Mastering the R          |  ER sound  | curve, certain     |
