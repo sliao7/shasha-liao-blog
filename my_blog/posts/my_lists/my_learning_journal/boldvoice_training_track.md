@@ -24,7 +24,7 @@ My current plan (updated on May 19, 2024) to improve my English is in the follow
 
 | Date        | iPhone training time | iPad training time | Cumulative training time | Chapter | Sound practiced | Example words | 
 | :-----      | :-----     | :-----    | :-----     | :----         | :-----    | :--- |
-| 2024-05-19  |        |         |                  |  Mastering the R       |  AH + R sound     | car, farm     |
+| 2024-05-19  | 1h 23m     | 59m       |  47h 37m   |  Mastering the R       |  AH + R sound     | car, farm     |
 | 2024-05-18  | 1h 1m      | 11m       |  45h 15m   |  Mastering the R          |  AH + R sound  | dark, far     |
 | 2024-05-17  | 52m        | 0m        |  44h 3m    |  Mastering the R          |  EH + R sound  |  haircut    |
 | 2024-05-16  | 23m        | 0m        |  43h 11m   |  Mastering the R          |  EH + R sound  |  heir    |
