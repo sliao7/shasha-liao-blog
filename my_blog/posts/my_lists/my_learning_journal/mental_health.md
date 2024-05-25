@@ -66,3 +66,9 @@ Resources:
 - Book: The Burnout Challenge by Chrtina Maslach and Micheal Leiter
 
 This is a helpful session. This is a helpful function. I would like to use this voice input, or dictation to record the new words and the sentences and the phrases that I learn every day. Also, I can use it to write my journal. This will try my spoken English. I don't know if this is something to do with writing I think writing requires more thoughtful, thinking, or processing of the content that I want to write. This is helping me to see if my language or English can be understand by the AI also increase the efficiency of my writing, because I don't need to type every words out but you need to write. I need to judge or consider the balance between input using by typing or saying things out the advantage of writing is that you can actually think and not being afraid of making mistakes and the change the sentences so I just is very nice to figure out this function to make my life a lot easier and more efficient.
+
+## Tiny habits
+
+# Thriving Mind
+
+## Introduction: the power of a thriving mind
