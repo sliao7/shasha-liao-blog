@@ -23,7 +23,7 @@ My current plan (updated on May 19, 2024) to improve my English is in the follow
 
 | Date       | iPhone training time | iPad training time | Cumulative training time | Chapter                    | Sound practiced                 | Example words                   |
 | :--------- | :------------------- | :----------------- | :----------------------- | :------------------------- | :------------------------------ | :------------------------------ |
-| 2024-05-24 |                      | 0m                 |                          | Mastering the R            | AW + R sound                    |                                 |
+| 2024-05-24 | 45m                  | 0m                 | 52h 8m                   | Mastering the R            | AW + R sound                    | important, fortune              |
 | 2024-05-23 | 50m                  | 0m                 | 51h 23m                  | Mastering the R            | AW + R sound                    | orthodox                        |
 | 2024-05-22 | 1h 50m               | 0m                 | 50h 33m                  | Mastering the R            | AW + R sound                    | storm, border                   |
 | 2024-05-21 | 1h 10m               | 0m                 | 48h 43m                  | Mastering the R            | AH + R sound                    | large, charge                   |
