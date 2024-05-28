@@ -10,7 +10,7 @@ My current plan (updated on May 19, 2024) to improve my English is in the follow
    - Using BoldVoice to learn the basics and get feedback;
    - Following and mimicking people speaking in movies, shows, talks, lectures, daily conversations, etc.;
    - Practicing linking sounds by following YouTube videos and BoldVoice app;
-   - Talking with ChatGPT in various ways for constructive feedbacks and suggestions to improve my pronunciation;
+   - Talking with ChatGPT in various ways for constructive feedback and suggestions to improve my pronunciation;
    - Using voice typing to check if the voice recognition algorithms can understand my pronunciation. If not, I learn the correct pronunciation and practice them;
    - Talking to native speakers several times a week.
 2. Solidate my grammar to build the foundation for smooth sentences and confident expressions:
@@ -19,10 +19,11 @@ My current plan (updated on May 19, 2024) to improve my English is in the follow
    - Using Grammarly and Copilot (powered by ChatGPT) to correct my mistakes, give me suggestions to improve the quality of my writing, and learn from them.
    - Looking up words and how they are used in dictionaries. I am currently using LONGMAN 6 and WordWebUS. They are super useful tools.
 3. Increase my vocabulary by looking up and mindfully remembering new words I encounter everywhere.
-4. Watch YouTute Videos and listening to Podcasts on tips and other people's advices to learn English. This has been super helpful!
+4. Watch YouTute Videos and listen to Podcasts on tips and other people's advice to learn English. This has been super helpful!
 
 | Date       | iPhone training time | iPad training time | Cumulative training time | Chapter                    | Sound practiced                         | Example words                   |
 | :--------- | :------------------- | :----------------- | :----------------------- | :------------------------- | :-------------------------------------- | :------------------------------ |
+| 2024-05-26 | 30m                  | 0m                 | 53h 7m                   | Mastering the R            | Aw + R sound and AH + R sound           | ordinary, Cory, party           |
 | 2024-05-25 | 29m                  | 0m                 | 52h 37m                  | Mastering the R            | Cupping the tongue for AH and AW sounds | spark, chalk                    |
 | 2024-05-24 | 45m                  | 0m                 | 52h 8m                   | Mastering the R            | AW + R sound                            | important, fortune              |
 | 2024-05-23 | 50m                  | 0m                 | 51h 23m                  | Mastering the R            | AW + R sound                            | orthodox                        |
