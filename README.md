@@ -1,5 +1,7 @@
 # Shasha Liao's Blog
 
+Update: my [new website](https://sliao7.github.io) has been deployed! Please check my [Blog](https://sliao7.github.io/blog/) page there!
+
 NOTE: I will no longer be updating this repository as I am building a new version of my website that includes a blog section. The new site will feature all the content from this repository with enhanced visual effects. Additionally, updating my lists will be much easier thanks to the Python code I’ve designed for this purpose. I will share the link to my new website once it is deployed, hopefully within a month. I’m very lucky to have an amazing art designer helping me with the visuals. So excited!
 
 ## 2024
